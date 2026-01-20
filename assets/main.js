@@ -8,21 +8,21 @@ const items = [
         title: "Workshop 1 — Analyse & Refonte d’une application",
         desc: "Analyse d’une application existante et proposition d’une refonte orientée services.",
         tag: "Projet",
-        href: "https://github.com/badi3a/SOA-Training/Workshop-ProjectStudy/"
+        href: "https://github.com/badi3a/SOA-Training/tree/Workshop-ProjectStudy"
     },
     {
         type: "lab",
         title: "Atelier SOAP — Consommation avec SoapUI",
         desc: "Découverte du WSDL et consommation d’un service SOAP via SoapUI.",
         tag: "SOAP",
-        href: "https://github.com/badi3a/SOA-Training/Workshop-SOAP/"
+        href: "https://github.com/badi3a/SOA-Training/tree/workshop-soap/"
     },
     {
         type: "lab",
         title: "Atelier REST — Mise en place d’un service RESTful",
         desc: "Conception de ressources REST et mise en œuvre d’une API CRUD.",
         tag: "REST",
-        href: "https://github.com/badi3a/SOA-Training/tree/Workshop-ProjectStudy"
+        href: "https://github.com/badi3a/SOA-Training/tree/workshop-RestApi"
     },
     {
         type: "workshop",
